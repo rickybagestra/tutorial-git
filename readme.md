@@ -1,0 +1,2 @@
+## HALO
+ini file percobaan
